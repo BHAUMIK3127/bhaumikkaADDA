@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ASSIGNMENT 5</title>
+</head>
+<body>
+  <h1><b><u>BATMAN</u></b></h1>
+  <p>
+  BATMAN operates in the fictional Gotham city with assistance of various supporting actors
+, including his butler Alfred, police commissioner Jim Gordon , and vigilante allies such as robin , BATMAN does not posses any <em>inhuman superpowers</em> </p>
+<br>
+<br>
+<br>
+<h2>IMAGES OF BATMAN</h2>
+<img src="https://raw.githubusercontent.com/sanjeetboora/CBJrWeb/master/Assignment5/assignment5folder/batman2.jpg" height="300">
+<img  src="https://raw.githubusercontent.com/sanjeetboora/CBJrWeb/master/Assignment5/assignment5folder/batman1.jpeg" height="300" width="300">
+<img src="https://cdn.mos.cms.futurecdn.net/2NBcYamXxLpvA77ciPfKZW.jpg" height="300" width="300"> 
+<img src="https://cdn.flickeringmyth.com/wp-content/uploads/2020/03/batman-deluxe_dc-comics_gallery_5e697c8dccfcf-600x600.jpg" height="300" width="300">
+<h2>audio of BATMAN</h2>
+<audio src="https://raw.githubusercontent.com/sanjeetboora/CBJrWeb/master/Assignment5/assignment5folder/Batman.mp3" 
+controls
+loop
+preload="auto"
+></audio>
+<br>
+<br>
+<h2>VIDEOS OF BATMAN</h2>
+<video src="https://raw.githubusercontent.com/sanjeetboora/CBJrWeb/master/Assignment5/assignment5folder/BatmanVideo.mp4" 
+controls
+loop
+height="300" width="300"
+preload="auto"></video>
+
+<video src="https://raw.githubusercontent.com/sanjeetboora/CBJrWeb/master/Assignment5/assignment5folder/dark_knight.mp4" 
+controls
+loop
+height="300" width="300"
+preload="auto"></video>
+
+
+
+
+
+    
+</body>
+</html>
