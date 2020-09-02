@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>assignment 6</title>
+</head>
+<body>
+    <table border="7">
+       <thead align="center"><tr bgcolor="#000FF00"><td colspan="4">FIRST GEN POKEMON CHART</td></tr></thead>
+        <tbody bgcolor="yellow" align="center">
+       <tr bgcolor="#00FF00">
+            <td>image</td>
+            <td>name</td>
+            <td>type</td>
+            <td>evolves into</td>
+        
+        </tr>
+        <tr>
+            <td><img src="https://raw.githubusercontent.com/sanjeetboora/CBJrWeb/master/Assignment6/i1.jpeg" ></td>
+            <td>Bulbasaur</td>
+            <td>Grass/Poison</td>
+            <td><a href="https://www.pokemon.com/us/pokedex/ivysaur" target="_blank">Ivysaur</a></td>
+        </tr>
+        <tr>
+            <td><img src="https://raw.githubusercontent.com/sanjeetboora/CBJrWeb/master/Assignment6/i2.jpeg"></td>
+            <td>Charmander</td>
+            <td>Fire</td>
+            <td><a href="https://www.pokemon.com/us/pokedex/charmeleon" target="_BLANK">Charmeleon</a></td>
+        
+        
+        </tr>
+
+        <tr>
+            <td><img src="https://raw.githubusercontent.com/sanjeetboora/CBJrWeb/master/Assignment6/i3.jpeg"></td>
+            <td>Squirtle</td>
+            <td>Water</td>
+            <td><a href="https://www.pokemon.com/us/pokedex/wartortle" target=_BLANK">Wartortle</a></td>
+        
+        
+        </tr>
+    </tbody>
+    </table>
+    
+</body>
+</html>
