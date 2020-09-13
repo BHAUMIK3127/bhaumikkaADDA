@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>assignment 9</title>
+</head>
+<body bgcolor="#03fcec">
+    <h1>Reservation Request</h1>
+    <form action="">
+    <fieldset>
+        <legend>General Information</legend>
+        <label for="d">Arrival Date</label>
+        <input type="date" required name="d"><br><br>
+        <label for="n">Nights </label>
+        <input type="text" name="n"><br><br>
+        <label for="a">Adults</label>
+        <select name="a" id="">
+            <option value="1">1</option>
+            <option value="2">2</option>
+            <option value="3">3</option>
+            <option value="<3">More than 3</option>
+           
+        </select><br><br>
+        <label for="c">Children</label>
+        <select name="c" id="">
+            <option value="1">1</option>
+            <option value="2">2</option>
+            <option value="3">3</option>
+            <option value="<3">More than 3</option>
+        </select>
+    </fieldset>
+        <fieldset>
+            <legend>Preferences</legend>
+            <label for="r">Room Type : </label>
+            <input type="radio" name="r">
+            Standard
+            <input type="radio" name="r">
+            Business
+            <input type="radio" name="r">
+            Suite
+            <br><br>
+            <label for="b">Bed Type : </label>
+            <input type="radio" name="b">
+            King
+            <input type="radio" name="b">
+             Double Double
+             <br><br>
+             <label for="s"> </label>
+             <input type="radio" name="s">
+             Smoking
+             <br><br>
+            <label for="f"> Food Options : </label>
+            <input type="text" name="f" >
+            
+        </fieldset>
+        <fieldset>
+            <legend>Contact Information</legend>
+            <label for="name">Name: </label>
+            <input type="text" name="name"><br><br>
+            <label for="em">Email: </label>
+            <input type="email" name="em" required><br><br>
+            <label for="ph">Phone: </label>
+            <input type="tel" name="ph" pattern=" [1-9]{10}" minlength="10" maxlength="10"> <br><br>
+            <label for="p">Password: </label>
+            <input type="password" required>
+            
+        </fieldset>
+        <fieldset>
+            <legend>Distance Information</legend>
+            <label for="fu">Fuel Meter : </label>
+            <meter name="fu" min="0" max="100"
+            low="30"
+            high="100"
+            optimum="50"
+            value="98"></meter><br><br>
+            <label for="pr">Progress Bar</label>
+            <progress name="pr"
+            max="100"
+            value="78"></progress><br><br>
+            <label for="nn">Write About The Place Of Visit</label><br><br>
+            <textarea name="nn" id="" cols="30" rows="10" placeholder="Enter Your Paragraph"></textarea>
+
+        </fieldset><br>
+        <input type="submit">
+
+
+
+
+
+
+
+
+
+</form>
+    
+</body>
+</html>
