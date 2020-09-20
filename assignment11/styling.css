@@ -1,0 +1,54 @@
+.q{
+    font-family: 'Grenze Gotisch', cursive;
+    background-color: #fa8787;
+    text-align: center;
+    color: white;
+
+}
+
+.qw{
+    color: #fa8787;
+}
+
+.mnb{
+    letter-spacing: 2px;
+    word-spacing: 2px;
+}
+
+.qwe{
+    text-align: right;
+    color: cornflowerblue;
+    text-decoration: overline;
+}
+
+.qwer{
+    font-style: italic;
+    font-weight: bold;
+    
+}
+
+.poi{
+    word-spacing: 12px;
+}
+
+p.poi .bhaumik{
+    text-align: right;
+}
+
+.manik{
+    background-color: cornflowerblue;
+    color: goldenrod;
+    text-decoration: underline;
+    text-align: center;
+}
+
+.akshit{
+    text-decoration: line-through;
+
+}
+
+.ketan{
+    direction: rtl;
+    unicode-bidi: bidi-override;
+    text-align: right;
+}
