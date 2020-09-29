@@ -1,0 +1,71 @@
+body{
+    background-color: black;
+}
+
+
+
+h1{
+    text-align: center;
+    color: cadetblue;
+    text-shadow: 0 2px 2px #FF0000, 
+      -2px 7px 0 #ff7f00, 
+      -4px 8px 0 #ffff00,
+      -8px 10px 0 #00ff00;
+     
+}
+
+h2{
+    text-align: center;
+    color: cadetblue;
+    text-shadow: 0 2px 2px #FF0000, 
+      -2px 7px 0 #ff7f00, 
+      -4px 8px 0 #ffff00,
+      -8px 10px 0 #00ff00;
+}
+
+.qw{
+    text-align: left;
+    color: chartreuse;
+    text-decoration: line-through underline ;
+    text-decoration-color: yellow;
+    
+   font-size: xx-large;
+}
+
+.qwe{
+    color: teal;
+}
+
+.boi{
+    color: red;
+}
+
+.qwer{
+    color: red;
+}
+
+.bhaumik{
+    color: teal;
+}
+
+.manik{
+    color: teal;
+}
+.akshit{
+    color: red;
+}
+
+.k10{
+    text-transform: uppercase;
+    color: purple;
+}
+.my{
+    font-size: larger;
+    color: red;
+
+}
+
+.bhu{
+    color: goldenrod;
+    
+}
