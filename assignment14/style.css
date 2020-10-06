@@ -1,0 +1,21 @@
+body{
+    background-color: greenyellow;
+
+}
+
+h1{
+    text-align: center;
+}
+
+hr{
+    border: solid 3px green ;
+}
+
+img{
+    margin-left: 500px;
+    border: dashed 18px pink ;
+    border-radius: 5%;
+}
+
+
+
